@@ -44,17 +44,31 @@ The objective of this task was to create visualizations that represent the distr
 
 ## Visualizations
 
-- Histogram – Age Distribution
- ### Age Distribution
+The following visualizations were created to explore the distribution of continuous and categorical variables in the Titanic dataset.
+
+### Age Distribution (Histogram)
+
 ![Age Distribution](images/age_distribution.png)
-- Bar Chart – Passenger Class Distribution
-  ### Passenger Class Distribution
+
+**Observation:** Most passengers were between 20 and 40 years of age.
+
+---
+
+### Passenger Class Distribution (Bar Chart)
+
 ![Passenger Class Distribution](images/passenger_class_distribution.png)
-- Bar Chart – Survival Distribution
-### Survival Distribution
+
+**Observation:** Third Class had the highest number of passengers.
+
+---
+
+### Survival Distribution (Bar Chart)
+
 ![Survival Distribution](images/survival_distribution.png)
 
-## 📈 Key Insights
+**Observation:** More passengers did not survive than survived.
+
+## Key Insights
 
 - The age distribution indicates that most passengers were young adults, primarily between 20 and 40 years old.
 - Third Class had the highest number of passengers, suggesting it was the most commonly used travel class.
