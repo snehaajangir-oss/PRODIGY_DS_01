@@ -33,7 +33,7 @@ The objective of this task was to create visualizations that represent the distr
 - Matplotlib
 - Seaborn
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
 - Exploratory Data Analysis (EDA)
 - Data Visualization
@@ -45,15 +45,12 @@ The objective of this task was to create visualizations that represent the distr
 ## Visualizations
 
 - Histogram – Age Distribution
-- Bar Chart – Passenger Class Distribution
-- Bar Chart – Survival Distribution
-
-### Age Distribution
+ ### Age Distribution
 ![Age Distribution](images/age_distribution.png)
-
-### Passenger Class Distribution
+- Bar Chart – Passenger Class Distribution
+  ### Passenger Class Distribution
 ![Passenger Class Distribution](images/passenger_class_distribution.png)
-
+- Bar Chart – Survival Distribution
 ### Survival Distribution
 ![Survival Distribution](images/survival_distribution.png)
 
