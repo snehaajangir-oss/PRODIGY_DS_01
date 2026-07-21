@@ -33,15 +33,6 @@ The objective of this task was to create visualizations that represent the distr
 - Matplotlib
 - Seaborn
 
-## Skills Demonstrated
-
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Data Cleaning
-- Python Programming
-- Statistical Analysis
-- Problem Solving
-
 ## Visualizations
 
 The following visualizations were created to explore the distribution of continuous and categorical variables in the Titanic dataset.
